@@ -13,10 +13,18 @@
 
 Make a GET request to http://localhost:8000/balance to get the current balance of all the payers. No request body is necessary for this request.
 
-### Add points
+### Add Points
 
 Make a POST request to http://localhost:8000/add to add points to a payer. A body is required for this request, and that should look something like...
 
 ```
  { "payer": "DANNON", "points": 1000, "timestamp": "2022-11-02T14:00:00Z" }
+```
+
+### Spend Points
+
+Make a POST request to http://localhost:8000/spend to spend points for the user. A body is required for this request, and that should look like this...
+
+```
+{ "points": 5000 }
 ```
