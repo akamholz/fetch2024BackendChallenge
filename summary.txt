@@ -1,0 +1,14 @@
+1. I used Node.js and Express to develop this API. I used these because they are simple and lightweight, making it easy and efficient to create a small project such as this one.
+I utilized Insomnia to send HTTP requests and test my project. I used Insomnia because I was familiar with it, but also because it is very easy to use.
+
+2. The advantages of my solution is that the code itself is short and easy to understand. 
+I believe this is highlighted by the extensive commenting that explains what certain code does and the significance of methods/variables.
+I also believe my solution is correct and efficient for solving the provided problem. Each request runs in O(nlogn) or O(1), making for quick response times.
+The disadvantages of my solution is that certain edge cases that were not specified in the project description may result in unexpected behavior. 
+For example, if negative balances or negative spend requests could result in unexpected behavior.
+
+3. My favorite project thus far has been my Employee Trivia application. 
+During my internship this most recent summer, I created a web application that allowed employees to be quizzed on fun facts about thier fellow employees.
+The most challenging thing about this project was that I did it exclusively in Angular/TypeScript, a language/framework that was practically completely new to me.
+However, given that I thought the project was fun and exciting, it was very easy to stay motivated to learn Angular despite how difficult and challenging it was at times.
+Ultimately, I was very pleased with the whole project, as I was able to apply what I learned into something that was fun and exciting!
